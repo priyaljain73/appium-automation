@@ -6,21 +6,10 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.remote.DesiredCapabilities;
 
 import java.io.IOException;
+
 import java.net.URL;
 
-public class SelenroidTest {
-
-    package com.priyaljain;
-
-import io.appium.java_client.AppiumDriver;
-import io.appium.java_client.android.AndroidDriver;
-import org.openqa.selenium.By;
-import org.openqa.selenium.remote.DesiredCapabilities;
-
-import java.io.IOException;
-import java.net.URL;
-
-    public class Main {
+public class SelendroidTest {
 
         public static void main(String[] args) throws IOException {
 
@@ -35,6 +24,6 @@ import java.net.URL;
             driver.findElement(By.id("android:id/button2")).click();
 
         }
-    }
+
 
 }
