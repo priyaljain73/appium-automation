@@ -27,4 +27,4 @@ Illustrates how Appium can be used to test mobile application Android.
 
 **Selendroid-Test-App**
   
-  Several testcases to check the buttons,text box and other featured of this App.
+   Several testcases to check the buttons,text box and other features of this App.
